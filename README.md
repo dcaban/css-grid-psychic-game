@@ -1,1 +1,1 @@
-# css-grid-psychic-game
+# Psychic-Game
